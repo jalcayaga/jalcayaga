@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jalcayaga
-- 👀 I’m interested in foot and sports
-- 🌱 I’m currently learning js, css and html.
-- 💞️ I’m looking to collaborate on project web automatition
+- 👀 I’m interested in food and sports
+- 🌱 I’m currently learning js, css and html
+- 💞️ I’m looking to collaborate on project web automation arduino and raspberry
 - 📫 How to reach me javier.alcayaga@subred.cl
 
 <!---
